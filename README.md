@@ -17,9 +17,7 @@
 - [x] Build构建和发布 ESM、Commonjs的支持
 - [x] pnpm的良好支持、可配合eslint完美类型推到和提示
 - [x] Eslint规范的普适性和支持
-- [ ] commitLint规则和能力支持
 - [x] Github Action的模板示例
-- [ ] 热更新能力的支持
 
 ## 使用
 
