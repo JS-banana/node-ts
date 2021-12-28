@@ -1,4 +1,6 @@
-export const one = 1
-export const two = 2
+const one = 1
+const two = 2
 
-console.log('log123:', one, two)
+export const sum = (a: number, b: number) => a + b
+
+console.log('log123:', one, two, sum(one, two))
