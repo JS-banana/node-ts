@@ -36,6 +36,9 @@
     "start": "esno src/index.ts",
     "test": "vitest"
   },
+  "dependencies": {
+    "dayjs": "^1.10.7"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^0.14.0",
     "@antfu/ni": "^0.12.0",
